@@ -48,4 +48,4 @@
 
 ```[String] $TypecastVar = 5```
 
-<img src="https://i.gyazo.com/357838bfc08d4421a4ad3d26952c0361.png">
+<img src="https://i.gyazo.com/39fa5a9444edde2c667a702e3d84c518.png">
